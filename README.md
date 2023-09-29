@@ -40,7 +40,7 @@ You'll find detailed explanations and code samples for each algorithm.
 Clone this repository to your local machine:
 bash
 Copy code
-git clone https://github.com/yourusername/dsa-java.git
+git clone [https://github.com/Anshika2509/Data-Structures-and-Algorithm-JAVA.git]
 Navigate to the directory containing the data structures or algorithms you want to use.
 
 Open the Java files in your favorite IDE or text editor.
